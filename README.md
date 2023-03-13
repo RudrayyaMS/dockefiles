@@ -7,3 +7,8 @@ File name should be dockerfile
 '''
 docker build -t [docker-hub-URL]/[your-username]/[image-name]:version .
 '''
+
+### how to push image to dockerhub
+ '''
+ docker push [docker-hub-URL]/[your-username]/[image-name]:version 
+ '''
