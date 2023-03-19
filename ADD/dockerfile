@@ -1,3 +1,5 @@
 FROM almalinux
 ADD https://github.com/pluralsh/plural/blob/master/Makefile /tmp/
 ADD apache-tomcat-9.0.73-embed.tar /tmp/
+ 
+ 
